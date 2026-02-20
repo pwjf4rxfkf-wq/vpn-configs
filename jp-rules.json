@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "nicovideo.jp",
+        "nimg.jp",
+        "dmc.nico",
+        "bookwalker.jp"
+      ]
+    }
+  ]
+}
