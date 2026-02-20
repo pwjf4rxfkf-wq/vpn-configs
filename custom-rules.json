@@ -1,0 +1,19 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "cambridge.org",
+        "bookwalker.com",
+        "deepl.com",
+        "paddle.com",
+        "jisho.org",
+        "b-cdn.net",
+        "xboxlive.com",
+        "wbagora.com",
+        "wbgames.com",
+        "cijapanese.com"
+      ]
+    }
+  ]
+}
