@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "meet.google.com",
+        "googleapis.com",
+        "gstatic.com",
+        "1e100.net"
+      ]
+    }
+  ]
+}
