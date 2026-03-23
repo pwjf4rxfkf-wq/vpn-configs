@@ -8,13 +8,14 @@
         "dmc.nico",
         "bookwalker.jp",
         "niconico.jp",
-        "nicovideo.cdn.nimg.jp",
         "niconico.com",
-        "ch.nicovideo.jp",
-		"dmc.nico",
-		"news.web.nhk",
-		"yasashii.asahi.com",
-		"classroomresources.sydney.jpf.go.jp"
+        "classroomresources.sydney.jpf.go.jp",
+
+        "nhk",
+        "nhk.or.jp",
+
+        "asahi.com",
+        "yasashii.asahi.com"
       ]
     }
   ]
