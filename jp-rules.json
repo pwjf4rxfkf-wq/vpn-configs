@@ -1,19 +1,19 @@
 {
-  "version": 3,
+  "version": 2,
   "rules": [
     {
-      "domain": [
-        "domain:nicovideo.jp",
-        "domain:nimg.jp",
-        "domain:dmc.nico",
-        "domain:bookwalker.jp",
-        "domain:niconico.jp",
-        "domain:niconico.com",
-        "domain:classroomresources.sydney.jpf.go.jp",
-        "domain:nhk.or.jp",
-        "domain:nhk.com",
-        "domain:asahi.com",
-        "domain:yasashii.asahi.com"
+      "domain_suffix": [
+        "nicovideo.jp",
+        "nimg.jp",
+        "dmc.nico",
+        "bookwalker.jp",
+        "niconico.jp",
+        "niconico.com",
+        "classroomresources.sydney.jpf.go.jp",
+        "nhk.or.jp",
+        "nhk.com",
+        "asahi.com",
+        "yasashii.asahi.com"
       ]
     }
   ]
